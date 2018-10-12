@@ -12,4 +12,8 @@ Finally, because this is a simple code-along, you won't actually have to submit 
 
 (And yes, we'll be updating the video ASAP!)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-bootstrap-codealong/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-bootstrap-codealong/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Bootstrap Code-Along</p>
